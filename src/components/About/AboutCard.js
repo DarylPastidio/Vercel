@@ -9,12 +9,13 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Daryl B. Pastidio </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            from <span className="purple"> Cebu, Philippines.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently working as a sernior software engineer.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            <br />
+            My experience with <span className="purple">AI and machine learning </span>adds an extra dimension to my development approach, 
+            allowing me to create <span className="purple">intelligent solutions</span> that solve complex problems.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,10 +25,10 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Playing Volleyball
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Socializing with people
             </li>
           </ul>
 

@@ -7,17 +7,21 @@ import {
   DiNodejs,
   DiMongodb,
   DiPython,
-  DiGit,
   DiJava,
+  DiDjango,
+  DiMysql,
 } from "react-icons/di";
+import { FaVuejs } from "react-icons/fa";
 import {
   SiRedis,
   SiFirebase,
   SiNextdotjs,
-  SiSolidity,
   SiPostgresql,
+  SiTypescript,
+  SiSpring,
+  SiAngularjs,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
+import { TbBrandGolang, TbFlask } from "react-icons/tb";
 
 function Techstack() {
   return (
@@ -26,28 +30,43 @@ function Techstack() {
         <CgCPlusPlus />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
+        <SiTypescript />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiSpring />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDjango />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiReact />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiNextdotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <SiAngularjs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaVuejs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
@@ -59,10 +78,10 @@ function Techstack() {
         <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <DiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+        <TbBrandGolang />
       </Col>
     </Row>
   );
