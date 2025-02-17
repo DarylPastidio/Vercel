@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://vercel.com/daryl-pastidios-projects/vercel" target="_blank">DarylPastidio.tech</a>
+  <a href="https://vercel-three-mu-60.vercel.app/" target="_blank">DarylPastidio.tech</a>
 </h2>
 
 <br/>
@@ -11,11 +11,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [DarylPastidio](https://github.com/DarylPastidio/Vercel). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [DarylPastidio](https://vercel-three-mu-60.vercel.app/). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://vercel.com/daryl-pastidios-projects/vercel" target="_blank">DarylPastidio.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://vercel-three-mu-60.vercel.app/" target="_blank">DarylPastidio.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
