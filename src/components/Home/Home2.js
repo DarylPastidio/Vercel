@@ -22,9 +22,11 @@ function Home2() {
               <br />
               <br />I am fluent in modern tech stacks, specializing in              
               <i>
-                <b className="purple"> JavaScript/TypeScript, Python, and Java. </b>
+                <b className="purple"> JavaScript/TypeScript, Python, Java and Matlab. </b>
               </i>
-              , with a proven track record of building high-performance applications that make a real impact. 
+              , with a proven track record of building high-performance applications that make a real impact.
+              In addition, I specialize in developing <b>MATLAB</b> algorithms for data analysis, signal processing, 
+              and machine learning to solve complex engineering problems.
               <br />
               <br />
               My expertise spans both frontend and backend development, &nbsp;
