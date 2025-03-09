@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import chatbot from "../../Assets/Projects/SSW_Chatbot.JPG";
 import ecommerce from "../../Assets/Projects/Electronics_Online_Store.JPG"
 import storage_pic from "../../Assets/Projects/Opacity Storage.JPG"
+import climate_pic from "../../Assets/Projects/climate Data Store.jpg"
 
 function Projects() {
   return (
@@ -40,6 +41,14 @@ function Projects() {
               isBlog={false}
               title="Opacity Storage"
               description="Developed a decentralized cloud storage platform that prioritizes user privacy and security. Opacity allows users to store files anonymously without requiring personal information. The platform employs end-to-end encryption, ensuring that files are secure from unauthorized access. Users can pay for storage using OPQ tokens, facilitating a seamless and private transaction process. The service aims to provide a familiar user experience akin to traditional cloud storage providers while enhancing online data privacy."
+            />
+          </Col>
+          <Col md={6} className="project-card">
+            <ProjectCard
+              imgPath={climate_pic}
+              isBlog={false}
+              title="Climate Data Store"
+              description="Used Matlab to optimize visualization performance and develop algorithms or improve efficiency. The Copernicus Climate Data Store (CDS) is a comprehensive web portal providing free access to high-quality climate datasets, including past, present, and future climate information. It supports researchers, policymakers, and businesses by offering tools for data analysis and visualization. The CDS includes a software toolbox for processing data online and is designed to be scalable, responsive, and user-friendly."
             />
           </Col>
         </Row>
