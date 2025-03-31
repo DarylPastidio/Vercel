@@ -10,6 +10,7 @@ import {
   DiJava,
   DiDjango,
   DiMysql,
+  DiDotnet,
 } from "react-icons/di";
 import { FaVuejs } from "react-icons/fa";
 import {
@@ -66,7 +67,7 @@ function Techstack() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+        <DiDotnet />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />

@@ -22,7 +22,7 @@ function Home2() {
               <br />
               <br />I am fluent in modern tech stacks, specializing in              
               <i>
-                <b className="purple"> JavaScript/TypeScript, Python, Java and Matlab. </b>
+                <b className="purple"> JavaScript/TypeScript, Python, Java, C# and Matlab. </b>
               </i>
               , with a proven track record of building high-performance applications that make a real impact.
               In addition, I specialize in developing <b>MATLAB</b> algorithms for data analysis, signal processing, 
@@ -42,7 +42,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I leverage my expertise in
-              with <b className="purple">Spring Boot</b>, <b className="purple">Node.js</b> and <b className="purple">Django</b> modern JavaScript frameworks like 
+              with <b className="purple">Spring Boot</b>, <b className="purple">Node.js</b>, <b className="purple">ASP.NET</b> and <b className="purple">Django</b> modern JavaScript frameworks like 
               <i>
                 <b className="purple">
                   {" "}
